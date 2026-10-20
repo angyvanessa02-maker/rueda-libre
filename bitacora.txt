@@ -1,0 +1,15 @@
+request URL http://127.0.0.1:5500/index.html
+status code 200
+host 127.0.0.1:5500
+
+ejemplo de error
+http://127.0.0.1:5500/promociones.html
+Cuando ingresas una ruta que no exista te aparac el codigo 404 not found y la pagina aparece en blanco con (cannot get)
+
+6.solucion minireto HTML: construye la estructura del sitio web. Por ejemplo, muestra el nombre, la imagen y el precio de una bicicleta.
+
+CSS: define la apariencia visual. Por ejemplo, establece los colores, el tamaño de las imágenes y el estilo de los botones.
+
+JavaScript: añade interactividad. Por ejemplo, permite mostrar los detalles de una bicicleta al pulsar un botón.
+
+Conclusión: estas tres tecnologías trabajan juntas para crear un sitio web organizado, atractivo e interactivo.
